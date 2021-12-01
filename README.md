@@ -1,6 +1,3 @@
-### WORKING ON MY GITHUB PROFILE!!!!
-
-
 <h1 align="center">Hi visitor, I'm Rayn. Welcome to my profile</h1>
 <p align="center">
 
