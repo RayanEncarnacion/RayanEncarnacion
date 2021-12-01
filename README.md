@@ -7,8 +7,6 @@
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <h2 align="center">Personal Details</h2>
 <p align="center">  
-	
----
   
 1. Languagues and Tools:												    
 	
@@ -33,11 +31,8 @@
 
 <h2 align="center">Github Stats</h2>
 <p align="center"> 
-	
----
 
 [![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RayanEncarnacion&theme=dracula&layout=compact)](https://github.com/RayanEncarnacion)
-
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
