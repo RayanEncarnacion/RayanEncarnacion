@@ -20,7 +20,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
  
-2. Contact me in messenger: <a href = "https://rayanencarnacion.netlify.app/" target="blank">Rayan Encarnacion</a>
+2. Contact me: <a href = "https://rayanencarnacion.netlify.app/#contact" target="blank">Rayan Encarnacion</a>
 
 3. Hobby: Reading books.
 
