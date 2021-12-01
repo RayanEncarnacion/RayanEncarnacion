@@ -31,6 +31,9 @@
 5. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank"> Rayan repositories</a>
 </p>
 
+<h2 align="center">Github Stats</h2>
+<p align="center"> 
+	
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=RayanEncarnacion&theme=onedark&title=MultiLanguage,Commit,Followers,Repo">
