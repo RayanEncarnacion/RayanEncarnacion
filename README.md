@@ -26,7 +26,7 @@
 
 4. Loves to: Watch animes and mangas.
 
-5. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank"> Rayan repositories</a>
+5. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank">Repositories</a>
 </p>
 
 <h2 align="center">Github Stats</h2>
