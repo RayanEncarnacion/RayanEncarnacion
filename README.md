@@ -1,4 +1,4 @@
-<h1 align="center">Hi visitor, I'm Rayn. Welcome to my profile</h1>
+<h1 align="center">Hi visitor, I'm Rayan. Welcome to my profile</h1>
 <p align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -8,7 +8,10 @@
 <p align="center">
 	
 	
-1. Learning programming languages: HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby, Java 
+1. Languagues and Tools: HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby, Java 
+	
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
  
 2. Contact me in messenger: <a href = "https://rayanencarnacion.netlify.app/" target="blank">KasRoudra</a>
 
