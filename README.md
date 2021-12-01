@@ -7,6 +7,8 @@
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <h2 align="center">Personal Details</h2>
 <p align="center">  
+	
+---
   
 1. Languagues and Tools:												    
 	
