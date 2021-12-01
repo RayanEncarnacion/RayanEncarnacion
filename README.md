@@ -6,10 +6,8 @@
 
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <h2 align="center">Personal Details</h2>
-<p align="center">
-	
-
-	
+<p align="center">  
+  
 1. Languagues and Tools:												    
 	
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35"  />
@@ -31,7 +29,7 @@
 7. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank"> Rayan repositories</a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RayanEncarnacion&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+<img src="https://github-profile-trophy.vercel.app/?username=RayanEncarnacion&theme=onedark&title=MultiLanguage,Commit,Followers,Repo">
 
 [![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh0612&theme=dracula&layout=compact)](https://github.com/RayanEncarnacion)
 
