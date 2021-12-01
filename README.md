@@ -1,7 +1,7 @@
 ### WORKING ON MY GITHUB PROFILE!!!!
 
 
-<h1 align="center">Hi visitor, I'm KasRoudra. Welcome to my profile</h1>
+<h1 align="center">Hi visitor, I'm Rayn. Welcome to my profile</h1>
 <p align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -33,3 +33,4 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 Credit: [Rayan Encarnacion](https://github.com/RayanEncarnacion)
+Last Edited on: 12/01/2021
