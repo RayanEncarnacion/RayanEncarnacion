@@ -37,7 +37,7 @@
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=RayanEncarnacion&theme=onedark&title=MultiLanguage,Commit,Followers,Repo">
-[![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh0612&theme=dracula&layout=compact)](https://github.com/RayanEncarnacion)
+![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RayanEncarnacion&theme=dracula&layout=compact)](https://github.com/RayanEncarnacion)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
