@@ -37,7 +37,6 @@
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=RayanEncarnacion&theme=onedark&title=MultiLanguage,Commit,Followers,Repo">
-<br/>
 ![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh0612&theme=dracula&layout=compact)](https://github.com/RayanEncarnacion)
 
 
