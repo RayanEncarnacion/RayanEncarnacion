@@ -26,8 +26,10 @@
 
 4. Loves to: Watch animes and mangas.
 
-7. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank"> Rayan repositories</a>
+5. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank"> Rayan repositories</a>
 </p>
+
+---
 
 <img src="https://github-profile-trophy.vercel.app/?username=RayanEncarnacion&theme=onedark&title=MultiLanguage,Commit,Followers,Repo">
 
