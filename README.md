@@ -10,7 +10,7 @@
 	
 1. Languagues and Tools: HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby, Java 
 	
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35" />
 
  
 2. Contact me in messenger: <a href = "https://rayanencarnacion.netlify.app/" target="blank">KasRoudra</a>
