@@ -20,19 +20,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-   ![Mongoose](https://img.shields.io/badge/MONGOOSE---%20-red?style=flat-square&logo=sass&logoColor=ffffff)
  
-2. Contact me in messenger: <a href = "https://rayanencarnacion.netlify.app/" target="blank">KasRoudra</a>
+2. Contact me in messenger: <a href = "https://rayanencarnacion.netlify.app/" target="blank">Rayan Encarnacion</a>
 
-3. Hobby: Reading books, Listen music, Play games.
+3. Hobby: Reading books.
 
-4. Loves to: Create Ebooks, Ringtones, Fake Screenshots, Memes, Meme Templates.
+4. Loves to: Watch animes and mangas.
 
-5. Collections of : APK, ISO, MP3, EXE, JPEG, PDF.
-
-6. Experienced in: Phone Rooting, Custom Rom/Recovery, Install OS in PC.
-
-7. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank"> KasRepositories</a>
+7. My repositories: <a href= "https://github.com/RayanEncarnacion?tab=repositories" target="blank"> Rayan repositories</a>
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RayanEncarnacion&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
