@@ -20,8 +20,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-   ![Mongoose](http://img.shields.io/badge/-Mongoose-%20-red?style=for-the-badge&logo=appveyor)
-   ![Mongoose](https://img.shields.io/badge/MONGOOSE-%20-red)
+   ![Mongoose](https://img.shields.io/badge/MONGOOSE---%20-red)
  
 2. Contact me in messenger: <a href = "https://rayanencarnacion.netlify.app/" target="blank">KasRoudra</a>
 
