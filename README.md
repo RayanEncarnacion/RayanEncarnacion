@@ -8,7 +8,7 @@
 <h2 align="center">Personal Details</h2>
 <p align="center">  
   
-1. Languagues and Tools:												    
+1. Languages and Tools:												    
 	
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
